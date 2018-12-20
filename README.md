@@ -3,7 +3,7 @@ Full Stack development of a blog allowing users to login, write, save and edit t
 
 It is the updated version of the [older blog](https://github.com/ztsorojev/Markdown-Blog) I created.
 
-**Languages:** Angular, Node.js, Express, MongoDB
+**Stack:** Angular, Node.js, Express, MongoDB
 
 ## Features
 
